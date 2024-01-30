@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "infoNote_1",
+    "title": "ABOUT MYNOTES",
+    "text": "Welcome to MyNotes - simple but up to the task note app. Do you need to take a note, or a quick reference? You're in the right place! To start using the app, an account is needed."
+  },
+  {
+    "_id": "infoNote_2",
+    "title": "NO ACCOUNT?",
+    "text": "Don't have an account yet? Sign up ",
+    "textAlt": "Enter your credentials and create an account.",
+    "link": "here"
+  }
+]
